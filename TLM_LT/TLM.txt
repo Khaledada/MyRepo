@@ -49,9 +49,9 @@ protected:
 };
 
 // Main function (for example/testing purposes)
-int sc_main(int argc, char* argv[]) {
+//int sc_main(int argc, char* argv[]) {
     // Instantiate components and set up the simulation
     // Note: The instantiation of memories and connection to the interconnect's iSocket must be done here.
     
-    return 0;
+   // return 0;
 }
